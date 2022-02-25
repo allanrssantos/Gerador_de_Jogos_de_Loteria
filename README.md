@@ -7,7 +7,7 @@
     - Em sequência será solicitado ao usuário que informe a ultima dezena válida do jogo pretendido (Ex.: Mega-Sena: 60, ver tabela abaixo).
     - Após os inputs feitos serão feitos os processamentos lógicos que retornarão com os jogos pretendidos.
 
-### ***O algoritimo não faz as apostas automaticamente, após gerados a quantidade de jogos e dezenas o usuário deverá anota-los no cartão oficial de loteria e dirigir-se a casa loterica para realizar a aposta mediante as taxas cobradas***
+### ***O algoritimo não faz as apostas automaticamente, após gerados as quantidades de jogos e dezenas o usuário deverá anota-los no cartão oficial de loteria e dirigir-se a casa loterica para realizar a aposta mediante as taxas cobradas***
 
 | Jogo | Dezenas |Aposta Min. | Valor da Aposta Min. | Aposta Máx. | Valor da Aposta Máx. |
 |--- | --- | ---| --- | --- | --- |
